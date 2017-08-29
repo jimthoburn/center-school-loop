@@ -1,6 +1,6 @@
 # Center Middle School
 
-This is a design prototype for the Center Middle School website. You can view the site here:
+This is a design prototype for the Center Middle School website on School Loop. You can view the site here:
 http://info.centermiddle.jimthoburn.com
 
 ## How to make changes
