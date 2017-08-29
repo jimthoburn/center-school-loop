@@ -1,7 +1,7 @@
-# Azusa High School
+# Center Middle School
 
 This is a design prototype for the Azusa High School website. You can view the site here:
-http://gladstonehighschool.jimthoburn.com
+http://info.centermiddle.jimthoburn.com
 
 ## How to make changes
 
